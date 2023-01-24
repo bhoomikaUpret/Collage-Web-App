@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(255, 221, 235);
+}
+
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border-color: rgb(0, 255, 242);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+#resultRow
+{
+    width: 05cm;
+    border-radius: 2ch;
+    box-shadow: 0 6px 8px 0 black;
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
